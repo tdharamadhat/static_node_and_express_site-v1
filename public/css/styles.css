@@ -362,3 +362,21 @@ nav a span {
     max-width: 1200px;
   }
 }
+
+.not-found-p,
+.error-p {
+  font-size: 1.1em;
+  font-weight: bolder;
+  color: white
+}
+
+.not-found-stack {
+  text-align: left;
+  color: white
+}
+
+.not-found-stack pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+}

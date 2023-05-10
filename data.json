@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "A Random Quote Generator",
+        "description": "The program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": ["https://tdharamadhat.github.io/a_random_quote_generator-v1/"],
+        "github_link":["https://github.com/tdharamadhat/a_random_quote_generator-v1"],
+        "image_url": ["/static/images/p1.jpg","/static/images/p11.jpg"]
+      },
+      {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "The javaScript programe that display several “pages” of student data that the user can easily navigate and view.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://tdharamadhat.github.io/data-pagination-and-filtering-v1/",
+        "github_link":["https://github.com/tdharamadhat/data-pagination-and-filtering-v1"],
+        "image_url": ["/static/images/p2.jpg","/static/images/p21.jpg"]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "The program that collect information from users and enhance a form so that it’s engaging, interactive, and easy to use.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://tdharamadhat.github.io/interactive-form-v3/",
+        "github_link":["https://github.com/tdharamadhat/interactive-form-v3"],
+        "image_url": ["/static/images/p3.jpg","/static/images/p31.jpg"]
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "A browser-based, word guessing game: \"Phrase Hunter.\", use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+        "technologies": ["JavaScript", "HTML", "CSS","OOP"],
+        "live_link": "https://tdharamadhat.github.io/oop_game-v2/",
+        "github_link":["https://github.com/tdharamadhat/oop_game-v2"],
+        "image_url": ["/static/images/p4.jpg","/static/images/p41.jpg"]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "The program that create an employee directory by communicating with a third-party API (Application Programming Interface).",
+        "technologies": ["JavaScript", "HTML", "CSS","API"],
+        "live_link": "https://tdharamadhat.github.io/public_api_request-v1/",
+        "github_link":["https://github.com/tdharamadhat/public_api_request-v1"],
+        "image_url": ["/static/images/p5.jpg","/static/images/p51.jpg"]
+      }      
+    ]
+}
